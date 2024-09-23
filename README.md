@@ -60,9 +60,9 @@
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <br>
   <br>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="Working in Group" height="25" src="images/problemSolving.png"></code>
-  <code><img title="Leadership" height="25" src="images/problemSolving.png"></code>
+  <code><img title="Problem Solving" height="25" src="images/problem-solving.svg"></code>
+  <code><img title="Working in Group" height="25" src="images/work-in-a-group.svg"></code>
+  <code><img title="Leadership" height="25" src="images/leadership.svg"></code>
 </p>
 <hr>
 
