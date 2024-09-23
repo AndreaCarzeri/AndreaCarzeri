@@ -27,7 +27,7 @@
   <br>
   📫 How to reach me: <a href="mailto:andreacarzeri@gmail.com">andreacarzeri@gmail.com</a>
 </p>
-
+<br>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
