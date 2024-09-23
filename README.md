@@ -9,7 +9,7 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/andrea-carzeri-901b4a328/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <!--<code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>-->
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Curriculum Vitae"><img width="22" src="images/pdf-logo.svg"> Curriculum Vitae</a></code>
+  <code><a href="https://github.com/AndreaCarzeri/AndreaCarzeri/blob/main/files/CV.pdf" title="Curriculum Vitae"><img width="22" src="images/pdf-logo.svg"> Curriculum Vitae</a></code>
   <code><a href="https://www.instagram.com/andreacarzeri?igsh=ZzBycG9sbTk0MG12" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
