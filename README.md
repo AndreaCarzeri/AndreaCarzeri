@@ -31,9 +31,8 @@
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
 <p align="center">
-  
+
   <code><img title="C" height="25" src="images/c.svg"></code>
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
@@ -64,7 +63,7 @@
   <code><img title="Working in Group" height="25" src="images/work-in-a-group.svg"></code>
   <code><img title="Leadership" height="25" src="images/leadership.svg"></code>
 </p>
-</div>
+</p>
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
