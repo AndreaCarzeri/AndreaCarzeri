@@ -25,6 +25,8 @@
   <br>
   📚 I’m currently learning and working on projects involving Flutter, NodeJS, and Rust
   <br>
+  🚀 I love taking on new adventures, working in teams, and overcoming challenges
+  <br>
   💬 Feel free to ask me anything about my projects <a href="https://github.com/AndreaCarzeri" title="GitHub Profile">Here</a>
   <br>
   📫 How to reach me: <a href="mailto:andreacarzeri@gmail.com">andreacarzeri@gmail.com</a>
