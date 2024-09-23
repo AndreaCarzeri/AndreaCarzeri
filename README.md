@@ -37,7 +37,7 @@
   <code><img title="C" height="25" src="images/c.svg"></code>
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Rust" height="25" src="images/rust.svg"></code>
+  <code><img title="Rust" height="25" src="images/rust-2.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
@@ -48,15 +48,15 @@
   <code><img title="Android" height="25" src="images/android.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <br>
+  |
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="Node.JS" height="25" src="images/nodejs.svg"></code>
   <code><img title="Flutter" height="25" src="images/flutter.svg"></code>
-  <br>
+  |
   <code><img title="Firebase" height="25" src="images/firebase.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <br>
+  |
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="Working in Group" height="25" src="images/problemSolving.png"></code>
   <code><img title="Leadership" height="25" src="images/problemSolving.png"></code>
