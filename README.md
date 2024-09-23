@@ -63,7 +63,6 @@
   <code><img title="Working in Group" height="25" src="images/work-in-a-group.svg"></code>
   <code><img title="Leadership" height="25" src="images/leadership.svg"></code>
 </p>
-</p>
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -91,7 +90,7 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/AndreaCarzeri/business-card" title="Business Card Example"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreaCarzeri&repo=business-card-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/AndreaCarzeri/business-card" title="Business Card Example"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreaCarzeri&repo=business-card&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/AndreaCarzeri/simple-pokemon-battle" title="Simple Pokemon Battle Simulation"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreaCarzeri&repo=simple-pokemon-battle&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
