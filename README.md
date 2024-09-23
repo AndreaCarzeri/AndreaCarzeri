@@ -49,13 +49,16 @@
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
   <br>
+  <br>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="Node.JS" height="25" src="images/nodejs.svg"></code>
   <code><img title="Flutter" height="25" src="images/flutter.svg"></code>
   <br>
+  <br>
   <code><img title="Firebase" height="25" src="images/firebase.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <br>
   <br>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="Working in Group" height="25" src="images/problemSolving.png"></code>
