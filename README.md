@@ -14,24 +14,20 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+  Hi, I'm Andrea Carzeri, Software Developer and Computer Science Student from Italy
   <br>
   <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
+  🔬 I'm currently pursuing a Bachelor's degree in Computer Science at the University of Trento
   <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
+  🎓 I graduated from Istituto di Istruzione Superiore Giacomo Perlasca, with a High School Diploma in Computer Science
   <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
+  💻 I have experience in multiple programming languages, including Rust, C++, Java, Kotlin, and more
   <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  📚 I’m currently learning and working on projects involving Flutter, NodeJS, and Rust
   <br>
-  💻 I love writing code and learn anythings about it
+  💬 Feel free to ask me anything about my projects <a href="https://github.com/AndreaCarzeri" title="GitHub Profile">Here</a>
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto:andreacarzeri@gmail.com">andreacarzeri@gmail.com</a>
 </p>
 
 <hr>
