@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AndreaCarzeri.AndreaCarzeri">
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I+am+Carzeri+Andrea....;Nice+to+meet+you!&center=true&size=30">
