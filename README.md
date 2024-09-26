@@ -32,8 +32,8 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-
-  <img title="C" height="25" src="images/c.svg">
+ <img>
+  <code><img title="C" height="25" src="images/c.svg"></code>
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Rust" height="25" src="images/rust-2.svg"></code>
